@@ -48,13 +48,10 @@ I first built a baseline Neural Network model. After that, I created an improved
 The model was evaluated using accuracy, confusion matrix, and classification report. These evaluation results helped me understand how well the model predicted diabetes and no-diabetes cases.
 
 ## Key Findings and Analytical Perspective
-
 The improved Neural Network model gave better prediction results compared to the baseline model. The result shows that model structure and preprocessing steps can affect prediction performance. In healthcare prediction, accuracy is important, but recall is also important because missing a possible diabetes case can be risky.
 
 ## Direct Prediction
-
 I also tested the trained model using new patient medical data. The model predicted whether the patient was likely to have diabetes or not. This step helped show how the model can be used for individual prediction.
 
 ## Conclusion
-
 In this project, I built a Neural Network model to predict diabetes using healthcare data. The project helped me understand data preprocessing, model training, model evaluation, model improvement, and direct prediction. The improved model gave better prediction results and showed how Machine Learning can support healthcare decision-making. This model is only for learning purposes and should not replace professional medical diagnosis.
