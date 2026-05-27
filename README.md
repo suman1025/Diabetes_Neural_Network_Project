@@ -1,10 +1,8 @@
-# Diabetes_Neural_Network_Project
-
+# Diabetes Neural Network Project
 ## Project Overview
 This project focuses on predicting diabetes using patient medical data. I used a Neural Network model to learn patterns from healthcare features such as glucose level, blood pressure, BMI, insulin level, age, and other medical measurements. The main goal of this project is to understand how Machine Learning can support healthcare prediction tasks.
 
 ## Project Objectives
-
 - To understand the diabetes dataset and its medical features.
 - To prepare and preprocess the healthcare data for analysis.
 - To build a Neural Network model for diabetes prediction.
@@ -13,7 +11,6 @@ This project focuses on predicting diabetes using patient medical data. I used a
 - To interpret the results and suggest future improvements.
 
 ## Dataset Information
-
 The dataset used in this project is the Pima Indians Diabetes Dataset. It contains patient medical information related to diabetes prediction. The target variable is `Outcome`.
 
 - 0 means No Diabetes
